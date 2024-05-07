@@ -3,6 +3,7 @@ layout: page
 title: About
 ---
 
-This is an example page!
+Here I will create an about me page where I will fill in about my life what I do and what I aspire to be.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+
+Github: [Ianu5](https://github.com/Ianu5)
