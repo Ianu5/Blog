@@ -2,8 +2,8 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: About me
-    url: about 
+  #- title: About me
+  #  url: about 
     # entries:
     #  - title: Github
     #    url: https://github.com/Ianu5
@@ -11,10 +11,10 @@ entries:
 
   - title: Posts
     post_list:
-      limit: 2
+      limit: 2 
       show_more: true
       show_more_text: more...
-      show_more_url: archive.html # I will need a md file that shows the things
+      show_more_url: ./statics/archive.html # I will need a md file that shows the things
 
   - title: Python
     post_list:
@@ -22,7 +22,7 @@ entries:
       limit: 2
       show_more: true
       show_more_text: more...
-      show_more_url: python.html
+      show_more_url: ./statics/python.html
 
   - title: Java
     post_list:
@@ -30,7 +30,7 @@ entries:
       limit: 2
       show_more: true
       show_more_text: more...
-      show_more_url: java.html
+      show_more_url: ./statics/java.html
 
  # - title: posts by category
  #   post_list:

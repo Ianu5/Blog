@@ -2,6 +2,18 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <!--Adding a top navigation bar-->
+    <nav class="top-nav">
+      <div class="left-links">
+        <a href="{{ site.baseurl }}/index.html">Home</a>
+      </div>
+      <div class="right-links">
+        <a href="{{ site.baseurl }}/statics/about.html">The Writer</a>
+        <a href="{{ site.baseurl }}/statics/archive.html">Posts</a>
+        <a href="#">Tech</a>
+      </div>
+    </nav>
+
     <main class="page-content" aria-label="Content">
       <div class="w">
         {{ content }}
