@@ -1,9 +1,41 @@
 ---
 layout: page
-title: About
+title: Change Growth Truth
 ---
 
-Here I will create an about me page where I will fill in about my life what I do and what I aspire to be.
+Present:
 
+---
+
+- Living in Hürth-Germany
+- Working at IQUL GmbH
+
+Learning:
+
+- Python - Fluent Python 
+- Java - Java a Beginners Guide
+
+Past:
+
+- Finished CS50 Introduction to Programming with Python
+- Finished CS50 Introduction to Computer Science
+- Working in retail (Bauhaus)
+- Licensed Personal Trainer
+- 4th Dan Taekwondo
+- Passionate about teaching martial arts(Taekwondo)
+    - teaching kids and adults
+    - beginner and advanved classes
+    - Leader of a small Taekwondo Demonstration Group
+- Working in retail (HEMA)
+
+Some trivial information:
+
+- I like music :D
+- I can play the violin
+- I like korean food and eating in general
+- I still like to exercise 
+
+
+Social:
 
 Github: [Ianu5](https://github.com/Ianu5)
