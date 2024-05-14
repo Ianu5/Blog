@@ -3,19 +3,23 @@ layout: page
 title: Change Growth Truth
 ---
 
-Present:
+#### Present:
 
 ---
 
 - Living in Hürth-Germany
 - Working at IQUL GmbH
 
-Learning:
+#### Learning:
+
+---
 
 - Python - Fluent Python 
 - Java - Java a Beginners Guide
 
-Past:
+#### Past:
+
+---
 
 - Finished CS50 Introduction to Programming with Python
 - Finished CS50 Introduction to Computer Science
@@ -24,12 +28,15 @@ Past:
 - 4th Dan Taekwondo
 - Passionate about teaching martial arts(Taekwondo)
     - teaching kids and adults
-    - beginner and advanved classes
-    - Leader of a small Taekwondo Demonstration Group
+    - beginner and advanced classes
+    - Leader of a Taekwondo Demonstration Group
 - Working in retail (HEMA)
 
-Some trivial information:
+#### Trivial Information:
 
+---
+
+<img src="../images/profile.png" alt="profile" style="float: right; width: 25%; height: auto;">
 - I like music :D
 - I can play the violin
 - I like korean food and eating in general
@@ -37,5 +44,7 @@ Some trivial information:
 
 
 Social:
+
+---
 
 Github: [Ianu5](https://github.com/Ianu5)
