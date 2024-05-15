@@ -11,26 +11,26 @@ entries:
 
   - title: Posts
     post_list:
-      limit: 2 
+      limit: 8 
       show_more: true
       show_more_text: more...
       show_more_url: ./statics/archive.html # I will need a md file that shows the things
 
-  - title: Python
-    post_list:
-      category: python
-      limit: 2
-      show_more: true
-      show_more_text: more...
-      show_more_url: ./statics/python.html
+#  - title: Python
+#    post_list:
+#      category: python
+#      limit: 2
+#      show_more: true
+#      show_more_text: more...
+#      show_more_url: ./statics/python.html
 
-  - title: Java
-    post_list:
-      category: java
-      limit: 2
-      show_more: true
-      show_more_text: more...
-      show_more_url: ./statics/java.html
+#  - title: Java
+#    post_list:
+#      category: java
+#      limit: 2
+#      show_more: true
+#      show_more_text: more...
+#      show_more_url: ./statics/java.html
 
  # - title: posts by category
  #   post_list:
