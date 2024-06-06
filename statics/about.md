@@ -40,7 +40,7 @@ title: Change Growth Truth
 - I like music :D
 - I can play the violin
 - I like korean food and eating in general
-- I still like to exercise 
+- I like to exercise 
 
 
 Social:
